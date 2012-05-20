@@ -1,0 +1,1 @@
+Descarga el SDK de Sencha Touch de [esta liga](http://www.sencha.com/products/touch/download/) e incluye los archivos necesarios en esta carpeta.
